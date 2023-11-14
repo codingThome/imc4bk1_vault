@@ -20,3 +20,5 @@ Wurden lokale Commits get√§tigt, so sieht das UI von Github Desktop folgenderma√
 - You have xx local commits waiting to be pushed to GitHub
 
 ![[Pasted image 20231114081659.png]]
+
+In Obsidian verwenden wir das "Obsidian Git"-Plugin. Dazu muss GIT installiert sein bzw. bei portabler Version der Pfad zur Git-Binary in den Umgebungsvariablen (Lokaler Benutzer - Path-Variable) erfasst sein.
